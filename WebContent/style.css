@@ -1,0 +1,49 @@
+@charset "ISO-8859-1";
+#head{
+	color: blue;
+}
+
+table{
+	background-color:rgba(0,0,0,0.7);
+	color:white;
+	box-shadow:10px 10px 10px 10px black;
+	width:30%;
+	height:200px;
+}
+#index{
+	background-image: url("img//car.png");
+}
+#index1 ul li{
+  display:inline-block;
+  padding:25px;
+  text-decoration:none;	
+}
+#data{
+	margin-top:150px;
+}
+.B{
+	width:100px;
+	height:35px;
+	background:linear-gradient(red, black);
+	color: white;
+}
+.C{
+	width:100px;
+	height:35px;
+	background:linear-gradient(red, black);
+	color: white;
+}
+ .A{
+	width:100px;
+	height:35px;
+	background:linear-gradient(red, black);
+	color: white;
+ }
+.A:hover{
+	background:linear-gradient(to right,red,black);
+}
+}
+.B:hover{
+	background:linear-gradient(to right,red,black);
+}
+
